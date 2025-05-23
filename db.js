@@ -47,5 +47,15 @@ const products = [
         price: 350.00,
         category: "collares",
         image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
-    } ]
+    },
+    {
+        id: 7,
+        name: "Collar de Perlas, Mariana",
+        description: "Collar de perlas cultivadas con cierre de oro de 14k.",
+        price: 350.00,
+        category: "collares",
+        image:"https://i.etsystatic.com/6081129/r/il/5f69c0/3958101192/il_fullxfull.3958101192_f4hq.jpg"
+    }
+
+]
     
