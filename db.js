@@ -55,6 +55,14 @@ const products = [
         price: 350.00,
         category: "collares",
         image:"https://i.etsystatic.com/6081129/r/il/5f69c0/3958101192/il_fullxfull.3958101192_f4hq.jpg"
+    },
+    {
+        id: 8,
+        name: "Anillo de Compromiso, Mariana",
+        description: "Anillo de platino con diamante central de 0.5 quilates.",
+        price: 2499.99,
+        category: "anillos",
+        image: "./src/img/anillo.webp"
     }
 
 ]
