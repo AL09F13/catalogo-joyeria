@@ -88,8 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     <p class="product-desc">${product.description}</p>
                     <div class="product-price">$${product.price.toFixed(2)}</div>
                     <div class="product-actions">
-                        <button class="add-to-cart" data-id="${product.id}">Añadir al carrito</button>
-                        <button class="wishlist"><i class="far fa-heart"></i></button>
+                        <!-- <button class="add-to-cart" data-id="${product.id}">Añadir al carrito</button> -->
+                        <!-- <button class="wishlist"><i class="far fa-heart"></i></button> -->
                     </div>
                 </div>
             `;
